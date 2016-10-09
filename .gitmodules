@@ -1,0 +1,3 @@
+[submodule "relay-gorm-connector"]
+	path = relay-gorm-connector
+	url = https://github.com/mrcirillo/relay-gorm-connector.git
